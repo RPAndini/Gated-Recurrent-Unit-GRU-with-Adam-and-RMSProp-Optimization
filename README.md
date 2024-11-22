@@ -1,0 +1,3 @@
+# Gated-Recurrent-Unit-GRU-with-Adam-and-RMSProp-Optimization
+
+Gtaed Recurrent Unit ....
